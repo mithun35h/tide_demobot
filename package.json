@@ -1,0 +1,15 @@
+{
+  "name": "tide",
+  "version": "1.0.0",
+  "description": "keep your money white",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
